@@ -7,12 +7,12 @@ saving these passwords must be done by algorithms that satisfy certain condition
 
    1- the uniqueness :
 
-    A and B two different passwords when they are encrypted by the same algorithm, they must give two different 
-    character strings
+   A and B two different passwords when they are encrypted by the same algorithm, they must give two different 
+   character strings
   
   2-not decipherable :
 
-    no one can find the original password, when he looks at the character string obtained after encryption
+   no one can find the original password, when he looks at the character string obtained after encryption
 
 
 existing encryption algorithms today do not satisfy these conditions, you can decrypt online: md5, sha-1 ... 
